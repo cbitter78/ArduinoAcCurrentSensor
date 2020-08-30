@@ -24,3 +24,7 @@ I have tested this on an [Adafruit Feather M0](https://learn.adafruit.com/adafru
 ### Other Sensors
 
 YHDC makes other sensors that output Volts per Amps.   If you are using a differnt sensor make sure to set `ACTectionRange` in yadc.h
+
+## Thanks
+
+Thanks to [Corey Singleton](https://github.com/CoreySingleton) for helping me navagate Digi-Key and finding the correct sensor. 
